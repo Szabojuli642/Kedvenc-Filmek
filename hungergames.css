@@ -1,5 +1,5 @@
 body{
-    background-image: url(mockingjay.jpg);
+    background-image: url(mockingjay5.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -38,8 +38,7 @@ h3{
     margin-right: 69%;
 }
 button{
-   float: right;
-   margin-right: 15%;
+   float: left;
 }
 a:link {
     color: rgb(67, 167, 255);
