@@ -1,0 +1,62 @@
+body{
+    background-image: url(symbol2.webp);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#cimkep{
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+#Tris{
+   width: 560px;
+   float: right;
+}
+#Peetah{
+    width: 460px;
+    float: left;
+}
+h2{
+    text-align: center;
+}
+.szereplok{
+    font-size: 12;
+    margin-left: 35%;
+    margin-right: 40%;
+}
+h3{
+    font-size: 25px;
+}
+#Katniss_Peetah{
+    width: 220px;
+    float: right;
+    margin-right: 69%;
+}
+button{
+   float: left;
+}
+a:link {
+    color: rgb(67, 167, 255);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(0, 101, 189);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: rgb(139, 0, 0);
+    background-color: transparent;
+    text-decoration: underline;
+}
